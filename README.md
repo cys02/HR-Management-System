@@ -1,2 +1,1 @@
-# Web-HumanResourceManagementSystem
-山东科技大学Web课程设计综合实践
+# HR-Management-System
